@@ -1,0 +1,9 @@
+https://numpy.org/devdocs/user/absolute_beginners.html
+https://www.w3schools.com/python/numpy/default.asp
+https://realpython.com/numpy-tutorial/
+
+
+
+#youtube
+https://youtu.be/9JUAPgtkKpI?si=u8-zc_1ztWwYDXwG
+https://youtu.be/gnKbAAVUzro?si=_j8yrbR9n64WKBu9

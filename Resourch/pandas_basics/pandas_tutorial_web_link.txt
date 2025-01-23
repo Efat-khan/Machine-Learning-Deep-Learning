@@ -1,0 +1,11 @@
+https://pandas.pydata.org/docs/user_guide/10min.html
+https://www.datacamp.com/tutorial/pandas
+https://www.w3schools.com/python/pandas/default.asp
+
+
+
+#youtube
+https://youtu.be/DkjCaAMBGWM?si=YEqWIjAR2lqzlCvy
+https://youtu.be/2uvysYbKdjM?si=IxN85xsj9SkYv0xo
+https://youtu.be/ZyhVh-qRZPA?si=YQwhfl2sy3Xmm2oB
+
